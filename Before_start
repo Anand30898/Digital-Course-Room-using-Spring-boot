@@ -8,4 +8,10 @@ For VS code you need to download folllowing extension
 one more APP that is required to run the localhost command in a efficient way 
 it is a crome Extension App known as POSTMAN
 -------------------------------------
+Dependencies that are required in the project
+1)WEB
+2)JPA
+3)APACHE DERBY or any other database management dependency
+--------------------------------------
+
 that's all HAPPY LEARNING
